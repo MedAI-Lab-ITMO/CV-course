@@ -44,6 +44,7 @@ PyTorch basics <br/>
 * comet-ml https://colab.research.google.com/drive/1hTKJTFE5Z4IR86YHlkC1gKm2LXd9_VN8?usp=sharing
 * optuna https://colab.research.google.com/drive/1fqF7hHseHQ7hOHkzaGwIDZgIjVARKfLe?usp=sharing
 * comet-ml + optuna https://colab.research.google.com/drive/1_OIa7aVqbFMUahh6yq4Un6Fw-TWapi4k?usp=sharing
+* [поиск sota](/материалы/search.md)
 ### Практика №4
 Ознакомление с устройством ViT. Можно использовать этот [пост](https://tintn.github.io/Implementing-Vision-Transformer-from-Scratch/) (или ноутбук того же автора https://github.com/tintn/vision-transformer-from-scratch/blob/main/vision_transformers.ipynb)
 ### Практика №5
