@@ -1,27 +1,5 @@
 # CV-2026 весенний семестр
-## План курса
-Лекции:
-1. введение в компьютерное зрение, классические методы
-2. сверточные нейронные сети
-3. архитектура Трансформеров
-4. задачи распознавания изображений (классификация, сегментация, детекция)
-5. задачи генерации изображений
-6. техники улучшения обучения нейронных сетей
-7. обработка сдвигов распределения данных
-8. Vision-Language Models
-
-Практики:
-1. Классические методы
-2. базовое обучение нейронной сети
-3. имплементация ViT
-4. работа с хабом моделей и данных Hugging Face
-5. решение задач генерации изображений, gradio
-6. работа с системой менеджмента экспериментов
-7. далее что-то из
-    * решение задач распознавания изображений
-    * техники улучшения обучения нейронных сетей
-    * обработка сдвигов распределения данных
-    * Vision-Language Models
+Примерный план курса: [link](/материалы/план.md)
 
 ## Лекции
 записи лекций выкладываются сюда: https://disk.yandex.ru/d/QbShoydtKt1Ajg
@@ -55,7 +33,7 @@ PyTorch basics <br/>
 [![lesson2d](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rYzN7ENztJuwpPN6eHjIqGBezUVOyccD?usp=sharing) сравнение разных видов TL<br/>
 [![lesson2d](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1udaQ0HY5fQyoh8hm-h-Gp9BSOE2R8LEl?usp=sharing) lr finder<br/>
 ### Практика №6
-генерация изображений с использованием готовой модели с HuggingFace + интерфейс gradio [![lesson5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rPxPzrKD4AlBFbxRtw31uHt4eVIP8H6S?usp=sharing)
+[![lesson5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rPxPzrKD4AlBFbxRtw31uHt4eVIP8H6S?usp=sharing) генерация изображений с использованием готовой модели с HuggingFace + интерфейс gradio
 
 ### Практика №7 (VLM)
 [![lesson2с](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ch8G5pex9kqgzNXguIlwg-xIpOEr3Jh6?usp=sharing) инференс<br/>
