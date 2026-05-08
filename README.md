@@ -6,6 +6,9 @@
 
 презентации лекций выкладываются сюда: [презентации](/презентации)
 
+### Дополнительные лекции
+* [Линейный тренд ID и OOD](/презентации/Линейная%20зависимость.pdf)
+
 ## Практики
 ### Практика №1
 [![lesson1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dS0iHbqD7c85yDNL3-x16HTWz6_x9hXp?usp=sharing) 
